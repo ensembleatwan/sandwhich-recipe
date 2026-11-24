@@ -25,3 +25,28 @@ A **five-minute** lunch for one person.
 | 10 | 20 | 10 |
 
 Read about [peanut butter](https://en.wikipedia.org/wiki/Peanut_butter).
+
+> This is a quote from Tarek Atwan: When in doubt, just be in doubt
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+> This is a standard ntoe
+> KEep reading
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+> tHis is a useful tip
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+> Very important __please don't ignore__ 
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+> Be warned 
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+[this is a link](www.yahoo.com)
+![this is an image](https://github.com/tatwan/ASAC_Data_Science/blob/main/course/assets/repo_images/logo.png)
